@@ -8,3 +8,6 @@ and Thunder Engine (By Runout Studio, not to confuse with [Thunder Engine](https
 
 Lightning Framework is a ready-to-use code to write a game without GUI, unlike Lightning Engine.\
 The features is including S.A.M.(Smart Assets Manager) and T.A.G.(Talantless Audio Generator)
+
+The goal for Lightning Framework is to be easily accessible by anyone by providing Python script layer.\
+And let anybody be able to make their own framework with our template.

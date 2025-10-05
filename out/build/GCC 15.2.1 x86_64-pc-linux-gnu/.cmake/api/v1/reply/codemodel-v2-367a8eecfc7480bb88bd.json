@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lightning-Framework-Prototype-1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lightning-Framework-Prototype-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lightning-Framework-Prototype-1-Debug-ff1c397bd6b5551647b9.json",
+					"name" : "Lightning-Framework-Prototype-1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariofolkshadow/Documents/Lightning-Framework/out/build/GCC 15.2.1 x86_64-pc-linux-gnu",
+		"source" : "/home/mariofolkshadow/Documents/Lightning-Framework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

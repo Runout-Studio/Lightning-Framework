@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mariofolkshadow/Documents/Lightning-Framework/out/build/GCC 15.2.1 x86_64-pc-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Lightning-Framework-Prototype-1.dir/src/main.cpp.o -c /home/mariofolkshadow/Documents/Lightning-Framework/src/main.cpp",
+  "file": "/home/mariofolkshadow/Documents/Lightning-Framework/src/main.cpp",
+  "output": "CMakeFiles/Lightning-Framework-Prototype-1.dir/src/main.cpp.o"
+}
+]

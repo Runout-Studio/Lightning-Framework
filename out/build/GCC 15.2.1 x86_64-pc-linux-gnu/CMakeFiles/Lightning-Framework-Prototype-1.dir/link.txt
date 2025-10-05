@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/Lightning-Framework-Prototype-1.dir/link.d "CMakeFiles/Lightning-Framework-Prototype-1.dir/src/main.cpp.o" -o Lightning-Framework-Prototype-1

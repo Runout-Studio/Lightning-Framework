@@ -1,3 +1,0 @@
-/home/mariofolkshadow/Documents/Lightning-Framework/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/Lightning-Framework-Prototype-1.dir
-/home/mariofolkshadow/Documents/Lightning-Framework/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/edit_cache.dir
-/home/mariofolkshadow/Documents/Lightning-Framework/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/rebuild_cache.dir
